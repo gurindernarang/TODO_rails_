@@ -1,4 +1,4 @@
-# Todo Application backend with Rails 4 and mongodb 6
+# Instagram like clone using ROR
 
 * Ruby version (ruby 2.7.1p83)
 

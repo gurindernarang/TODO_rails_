@@ -16,6 +16,8 @@ gem 'mongoid', '~> 6.0.2'
 gem 'responders'
 gem 'bson_ext'
 gem 'oj'
+#Gem to fix CORS issue
+gem 'rack-cors'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
